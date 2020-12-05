@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer and information systems student in Brazil. I am passionate about math, computer science and science! I love participating in any type of competition and I love to start projects, somtimes I even complete ones.
+I'm a web developer and information systems student in Brazil. I am passionate about math, computer science and science! I love participating in any type of competition and I love to start projects, sometimes I even get to finish one of them.
 
 📫 If you want to reach me out, just e-mail me at elliancarlos@gmail.com. 
 
