@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a web developer and information systems student in Brazil. I am passionate about math, computer science and science! I love participating in any type of competition and I love to start projects, somtimes I even complete ones.
+
+📫 If you want to reach me out, just e-mail me at elliancarlos@gmail.com. 
+
+🔭 I am currently working in Tokenlab as a Web Developer.
+
+🌱 I’m currently learning a looot of things, but mostly Neural Networks and Artificial Inteligence.
 <!--
 **EllianCarlos/EllianCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
