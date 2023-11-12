@@ -6,7 +6,7 @@ I'm a web developer and information systems student in Brazil. I am passionate a
 
 🔭 I am currently working in Tokenlab as a Web Developer.
 
-🌱 I’m currently learning a looot of things, but mostly Design Patters, Backend Systems and Systems Engineering and Architecture.
+🌱 I’m currently learning a looot of things, but mostly Computational Models for Biology, Systems Architecture and Machine Learning.
 <!--
 **EllianCarlos/EllianCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
