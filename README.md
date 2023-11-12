@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-I'm a web developer and information systems student in Brazil. I am passionate about math, computer science and science! I love participating in any type of competition and I love to start projects, sometimes I even get to finish one of them.
+I'm a web developer and master's student in Brazil. I am passionate about math, computers and science! I love to learn, teach e explora new things. I'm thrilled by the excitement of discovery.
 
 📫 If you want to reach me out, just e-mail me at `elliancarlos at gmail.com`.
 
-🔭 I am currently working in Tokenlab as a Web Developer.
+🔭 I am currently working at CI&T as a Backend Senior Engineer.
 
 🌱 I’m currently learning a looot of things, but mostly Computational Models for Biology, Systems Architecture and Machine Learning.
+
+👯 I’m looking to collaborate on ideas for papers in Computational Modelling for Biology. I can add a lot if you need experience in ML, AI, Optimization Algorithms and other Algorithms and Data Structures.
+
+>  "I'm no prophet. My job is making windows where there were once walls." — Michel Foucault
+
 <!--
 **EllianCarlos/EllianCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
