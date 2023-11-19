@@ -10,6 +10,10 @@ I'm a web developer and master's student in Brazil. I am passionate about math, 
 
 👯 I’m looking to collaborate on ideas for papers in Computational Modelling for Biology. I can add a lot if you need experience in ML, AI, Optimization Algorithms and other Algorithms and Data Structures.
 
+#### My Values
+
+I believe technology and science are our best tools to improve ourselves as society and our best hope to the future of humanity! I defend the free distribution of valuable knowlegde and compassion.
+
 >  "I'm no prophet. My job is making windows where there were once walls." — Michel Foucault
 
 <!--
