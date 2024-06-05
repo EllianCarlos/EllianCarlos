@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer and master's student in Brazil. I am passionate about math, computers and science! I love to learn, teach e explora new things. I'm thrilled by the excitement of discovery.
+I'm a software engineer and student in Brazil. I am passionate about math, computers and science! I love to learn, teach e explore new things. I'm thrilled by the excitement of discovery.
 
 📫 If you want to reach me out, just e-mail me at `elliancarlos at gmail.com`.
 
