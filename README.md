@@ -4,8 +4,6 @@ I'm a web developer and master's student in Brazil. I am passionate about math, 
 
 📫 If you want to reach me out, just e-mail me at `elliancarlos at gmail.com`.
 
-🔭 I am currently working at CI&T as a Backend Senior Developer.
-
 🌱 I’m currently learning a looot of things, but mostly Computational Models for Biology, Systems Architecture and Machine Learning.
 
 👯 I’m looking to collaborate on ideas for papers in Computational Modelling for Biology. I can add a lot if you need experience in ML, AI, Optimization Algorithms and other Algorithms and Data Structures.
