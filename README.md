@@ -2,7 +2,7 @@
 
 I'm a software engineer and student in Brazil. I am passionate about math, computers and science! I love to learn, teach e explore new things. I'm thrilled by the excitement of discovery.
 
-📫 If you want to reach me out, just e-mail me at `elliancarlos at gmail.com`.
+📫 If you want to reach me out, just e-mail me at `elliancarlos {at goes here) gmail (dot goes here} com`.
 
 🌱 I’m currently learning a looot of things, but mostly Systems Architecture, Software Engineering Machine Learning.
 
