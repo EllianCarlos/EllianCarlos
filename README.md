@@ -4,9 +4,9 @@ I'm a software engineer and student in Brazil. I am passionate about math, compu
 
 📫 If you want to reach me out, just e-mail me at `elliancarlos {at goes here) gmail (dot goes here} com`.
 
-🌱 I’m currently learning a looot of things, but mostly Systems Architecture, Software Engineering Machine Learning.
+🌱 I’m currently learning a looot of things, but mostly Systems Architecture, Designs Systems and Functional Programming.
 
-👯 I’m looking to collaborate on ideas for papers in Computational Modelling or Software Engineering. I can add a lot if you need experience in ML, AI, Optimization Algorithms and other Algorithms and Data Structures.
+If you're a well behaved person and would like to be mentored, give me a heads up!
 
 #### My Values
 
