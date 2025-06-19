@@ -12,8 +12,6 @@ If you're a well behaved person and would like to be mentored, give me a heads u
 
 I believe technology and science are our best tools to improve ourselves as society and our best hope to the future of humanity! I defend the free and open distribution of valuable knowlegde and compassion.
 
->  "I'm no prophet. My job is making windows where there were once walls." — Michel Foucault
-
 <!--
 **EllianCarlos/EllianCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
