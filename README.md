@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm a software engineer and student in Brazil. I am passionate about math, computers and science! I love to learn, teach e explore new things. I'm thrilled by the excitement of discovery.
+I'm a software engineer at amazon and student in Brazil. I am passionate about math, computers and science! I love to learn, teach e explore new things. I'm thrilled by the excitement of discovery.
 
-📫 If you want to reach me out, just e-mail me at `elliancarlos {at goes here) gmail (dot goes here} com`.
+If you want to reach me out, just e-mail me at `elliancarlos {at goes here) gmail (dot goes here} com`.
 
-🌱 I’m currently learning a looot of things, but mostly Systems Architecture, Designs Systems and Functional Programming.
-
-If you're a well behaved person and would like to be mentored, give me a heads up!
+I’m curious about a looot of things, but now I'm mostly studying Systems Architecture, Designs Systems, Functional Programming, Observability and Agentic AI.
 
 #### My Values
 
